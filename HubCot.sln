@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HubCot", "HubCot\HubCot.vcxproj", "{114D6512-CCE2-425D-89CA-9D9970201B03}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HubCotServer", "HubCotServer\HubCotServer.vcxproj", "{F7766B5F-5937-4D7F-B219-D949F9FF9485}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{114D6512-CCE2-425D-89CA-9D9970201B03}.Debug|Win32.ActiveCfg = Debug|Win32
+		{114D6512-CCE2-425D-89CA-9D9970201B03}.Debug|Win32.Build.0 = Debug|Win32
+		{114D6512-CCE2-425D-89CA-9D9970201B03}.Debug|x64.ActiveCfg = Debug|x64
+		{114D6512-CCE2-425D-89CA-9D9970201B03}.Debug|x64.Build.0 = Debug|x64
+		{114D6512-CCE2-425D-89CA-9D9970201B03}.Release|Win32.ActiveCfg = Release|Win32
+		{114D6512-CCE2-425D-89CA-9D9970201B03}.Release|Win32.Build.0 = Release|Win32
+		{114D6512-CCE2-425D-89CA-9D9970201B03}.Release|x64.ActiveCfg = Release|x64
+		{114D6512-CCE2-425D-89CA-9D9970201B03}.Release|x64.Build.0 = Release|x64
+		{F7766B5F-5937-4D7F-B219-D949F9FF9485}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F7766B5F-5937-4D7F-B219-D949F9FF9485}.Debug|Win32.Build.0 = Debug|Win32
+		{F7766B5F-5937-4D7F-B219-D949F9FF9485}.Debug|x64.ActiveCfg = Debug|x64
+		{F7766B5F-5937-4D7F-B219-D949F9FF9485}.Debug|x64.Build.0 = Debug|x64
+		{F7766B5F-5937-4D7F-B219-D949F9FF9485}.Release|Win32.ActiveCfg = Release|Win32
+		{F7766B5F-5937-4D7F-B219-D949F9FF9485}.Release|Win32.Build.0 = Release|Win32
+		{F7766B5F-5937-4D7F-B219-D949F9FF9485}.Release|x64.ActiveCfg = Release|x64
+		{F7766B5F-5937-4D7F-B219-D949F9FF9485}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
